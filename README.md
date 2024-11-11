@@ -12,6 +12,16 @@
 ## 演示
 
 ![演示截图](https://github.com/chxzking/TV-menu-and-remote-control/blob/main/%E6%BC%94%E7%A4%BA/p1.png)
+![演示截图](https://github.com/chxzking/TV-menu-and-remote-control/blob/main/%E6%BC%94%E7%A4%BA/p2.png)
+![演示截图](https://github.com/chxzking/TV-menu-and-remote-control/blob/main/%E6%BC%94%E7%A4%BA/p3.png)
+![演示截图](https://github.com/chxzking/TV-menu-and-remote-control/blob/main/%E6%BC%94%E7%A4%BA/p4.png)
+![演示截图](https://github.com/chxzking/TV-menu-and-remote-control/blob/main/%E6%BC%94%E7%A4%BA/p5.png)
+![演示截图](https://github.com/chxzking/TV-menu-and-remote-control/blob/main/%E6%BC%94%E7%A4%BA/p6.png)
+
+<video width="600" controls>
+  <source src="https://github.com/chxzking/TV-menu-and-remote-control/blob/main/%E6%BC%94%E7%A4%BA/video.mp4)" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 你可以根据项目的具体功能和需求进一步调整这个README文件。如果你有任何其他问题或需要进一步帮助，请随时告诉我！😊
